@@ -32,17 +32,9 @@ cd specific_face_gan
 
 #### 3. Download file
 
-- download cnn_classifier model from 
+- download cnn_classifier model from [here](https://pan.baidu.com/s/19zPQYQ9LTnihfigoac54ow)and put **model** dir in **attr_cnn/**
 
-  [here]: https://pan.baidu.com/s/19zPQYQ9LTnihfigoac54ow
-
-   and put **model** dir in **attr_cnn/**
-
-- download stylegan model from 
-
-  [here]: https://pan.baidu.com/s/1_rdmh1TltdH42p8TSfdx9A
-
-   and put **model** dir in **ROOT DIR**
+- download stylegan model from [here](https://pan.baidu.com/s/1_rdmh1TltdH42p8TSfdx9A)and put **model** dir in **ROOT DIR**
 
 #### 4.  Generate images
 
